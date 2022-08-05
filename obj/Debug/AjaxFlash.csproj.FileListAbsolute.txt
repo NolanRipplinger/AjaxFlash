@@ -1,0 +1,8 @@
+E:\Backup\Programming\.net\AjaxFlash\bin\Debug\AjaxFlash.exe.config
+E:\Backup\Programming\.net\AjaxFlash\bin\Debug\AjaxFlash.exe
+E:\Backup\Programming\.net\AjaxFlash\bin\Debug\AjaxFlash.pdb
+E:\Backup\Programming\.net\AjaxFlash\obj\Debug\AjaxFlash.csproj.AssemblyReference.cache
+E:\Backup\Programming\.net\AjaxFlash\obj\Debug\AjaxFlash.csproj.SuggestedBindingRedirects.cache
+E:\Backup\Programming\.net\AjaxFlash\obj\Debug\AjaxFlash.csproj.CoreCompileInputs.cache
+E:\Backup\Programming\.net\AjaxFlash\obj\Debug\AjaxFlash.exe
+E:\Backup\Programming\.net\AjaxFlash\obj\Debug\AjaxFlash.pdb
